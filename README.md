@@ -1,4 +1,4 @@
-Hey, I’m Purushottam 👋
+<h2>Hey, I’m Purushottam 👋 </h2>
 
 Software Developer, Teacher, Entrepreneur, Dreamer <br>
 I live in Pune, India.
