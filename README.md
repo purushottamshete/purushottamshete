@@ -1,6 +1,6 @@
 Hey, I’m Purushottam 👋
 
-Software Developer, Teacher, Entrepreneur, Dreamer
+Software Developer, Teacher, Entrepreneur, Dreamer <br>
 I live in Pune, India.
 
 I have worked with Domains like Telecom, Finance, and Web <br>
