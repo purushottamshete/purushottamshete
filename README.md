@@ -1,6 +1,6 @@
 <h2>Hey, I’m Purushottam 👋 </h2>
 
-Software Developer, Teacher, Entrepreneur, Dreamer <br>
+Freelancer Backend Developer<br>
 I live in Pune, India.
 
 I have worked with Domains like Telecom, Finance, and Web <br>
