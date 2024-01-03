@@ -6,7 +6,7 @@ I live in Pune, India.
 I have worked with Domains like Telecom, Finance, and Web <br>
 My Journey started from C++ developer to Python Developer via Building a couple of startups.
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,docker,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,docker,postgres,aws,mongodb,git)](https://skillicons.dev)
 
 
 <h3>Connect With Me</h3>
