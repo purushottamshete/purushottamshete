@@ -1,6 +1,6 @@
 <h2>Hey, I’m Purushottam 👋 </h2>
 
-Freelancer Backend Python Developer<br>
+CTO, PRSTech <br>
 I live in Pune, India.
 
 I have worked with Domains like Telecom, Finance, and Web <br>
